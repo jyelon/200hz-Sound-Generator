@@ -1,4 +1,4 @@
-Waveform Generator:
+200hz sound generator:
 
 This generates a fixed 200hz sine wave, using an arduino and a
 resistor ladder DAC.  It is possible with the help of an amplifier
